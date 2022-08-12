@@ -1,0 +1,8 @@
+C:\Users\redom\source\repos\Blackjackv3\Blackjackv3\bin\Debug\Blackjackv3.exe.config
+C:\Users\redom\source\repos\Blackjackv3\Blackjackv3\bin\Debug\Blackjackv3.exe
+C:\Users\redom\source\repos\Blackjackv3\Blackjackv3\bin\Debug\Blackjackv3.pdb
+C:\Users\redom\source\repos\Blackjackv3\Blackjackv3\obj\Debug\Blackjackv3.csproj.AssemblyReference.cache
+C:\Users\redom\source\repos\Blackjackv3\Blackjackv3\obj\Debug\Blackjackv3.csproj.SuggestedBindingRedirects.cache
+C:\Users\redom\source\repos\Blackjackv3\Blackjackv3\obj\Debug\Blackjackv3.csproj.CoreCompileInputs.cache
+C:\Users\redom\source\repos\Blackjackv3\Blackjackv3\obj\Debug\Blackjackv3.exe
+C:\Users\redom\source\repos\Blackjackv3\Blackjackv3\obj\Debug\Blackjackv3.pdb
